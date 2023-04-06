@@ -1,14 +1,14 @@
 {
-  "main.css": "/food-order/static/css/main.588ab747.chunk.css",
-  "main.js": "/food-order/static/js/main.01156b33.chunk.js",
-  "main.js.map": "/food-order/static/js/main.01156b33.chunk.js.map",
+  "main.css": "/food-order/static/css/main.576c5573.chunk.css",
+  "main.js": "/food-order/static/js/main.93b10277.chunk.js",
+  "main.js.map": "/food-order/static/js/main.93b10277.chunk.js.map",
   "static/js/1.4f471dbe.chunk.js": "/food-order/static/js/1.4f471dbe.chunk.js",
   "static/js/1.4f471dbe.chunk.js.map": "/food-order/static/js/1.4f471dbe.chunk.js.map",
   "runtime~main.js": "/food-order/static/js/runtime~main.4fe38567.js",
   "runtime~main.js.map": "/food-order/static/js/runtime~main.4fe38567.js.map",
   "static/media/meals.jpg": "/food-order/static/media/meals.55c74990.jpg",
-  "static/css/main.588ab747.chunk.css.map": "/food-order/static/css/main.588ab747.chunk.css.map",
+  "static/css/main.576c5573.chunk.css.map": "/food-order/static/css/main.576c5573.chunk.css.map",
   "index.html": "/food-order/index.html",
-  "precache-manifest.e3c94aa4c6dde19a8eb8e364e34147c2.js": "/food-order/precache-manifest.e3c94aa4c6dde19a8eb8e364e34147c2.js",
+  "precache-manifest.0ffea473bb53ddfb14d9244af5af4fe7.js": "/food-order/precache-manifest.0ffea473bb53ddfb14d9244af5af4fe7.js",
   "service-worker.js": "/food-order/service-worker.js"
 }

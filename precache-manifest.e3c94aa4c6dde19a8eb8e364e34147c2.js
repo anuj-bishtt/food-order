@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "51a92e1f1930afd7cbc7",
-    "url": "/food-order/static/css/main.00c8dc52.chunk.css"
+    "revision": "01156b332e0c33af4a46",
+    "url": "/food-order/static/css/main.588ab747.chunk.css"
   },
   {
-    "revision": "51a92e1f1930afd7cbc7",
-    "url": "/food-order/static/js/main.51a92e1f.chunk.js"
+    "revision": "01156b332e0c33af4a46",
+    "url": "/food-order/static/js/main.01156b33.chunk.js"
   },
   {
     "revision": "4f471dbef0c68e5a734f",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/food-order/static/media/meals.55c74990.jpg"
   },
   {
-    "revision": "bbcd15a58b82e0ae33957a1e576ae4ab",
+    "revision": "1faf3a94349d9740371d596db3405e1a",
     "url": "/food-order/index.html"
   }
 ];
